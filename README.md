@@ -30,10 +30,11 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Stat ✨</h2>
 
 <div align="center">
-  
+
 ![yunnij's github stats](https://github-readme-stats.vercel.app/api?username=yunnij)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnij&layout=compact)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunnij)](https://solved.ac/yunnij)
 </div>
 </div>
