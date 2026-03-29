@@ -32,8 +32,8 @@
 <div align="center">
   
 ![yunnij's github stats](https://github-readme-stats.vercel.app/api?username=yunnij)
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunnij&layout=compact)
--->
+
 </div>
 </div>
