@@ -6,11 +6,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yunnij&theme=default&locale=ko)](https://git.io/streak-stats)
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📬 Contact 📬 </h2>
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:blrdyunnij@gmail.com)
-[![Tistory](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@yunnij/posts)
-
 <br/>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stack 🛠️</h2>
@@ -29,5 +24,13 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+<br/>
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📬 Contact 📬 </h2>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:blrdyunnij@gmail.com)
+[![Tistory](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@yunnij/posts)
+
 
 </div>
