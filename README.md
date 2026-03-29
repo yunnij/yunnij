@@ -5,7 +5,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📬 Contact 📬 </h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:blrdyunnij@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tech%20Blog-FF7A59?style=flat&logo=tistory&logoColor=white)](https://skaahremd23.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@yunnij/posts)
 
 <br/>
 
