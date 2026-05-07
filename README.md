@@ -2,8 +2,6 @@
 
 <div align=center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunnij)](https://solved.ac/yunnij)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=yunnij&theme=default&locale=ko)](https://git.io/streak-stats)
 
 <br/>
